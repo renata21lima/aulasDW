@@ -1,0 +1,15 @@
+h1{
+    font-family: sans-serif;
+    color: blue;
+}
+
+p{
+    font-family: sans-serif;
+    color: blueviolet;
+    text-align: right;
+}
+
+.imagens{
+    width: 100px;
+    height: auto;
+}
